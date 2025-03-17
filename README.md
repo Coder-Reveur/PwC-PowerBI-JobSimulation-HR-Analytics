@@ -94,3 +94,11 @@ This repository showcases my completion of the **PwC Switzerland Power BI Job Si
 
 > **Disclaimer:** This project was completed as part of the PwC Switzerland Power BI Job Simulation on Forage. All data is hypothetical and used for educational purposes only.
 
+---
+<p align="center">
+  <strong>📬 Let’s Connect!</strong>
+  <br>
+  <a href="https://www.linkedin.com/in/rishikesh-borah-3b245284/" target="_blank" style="display: inline-block; background-color: #0077B5; color: #fff; padding: 8px 16px; margin: 5px 10px; text-decoration: none; border-radius: 4px;">LinkedIn</a> | 
+  <a href="mailto:rishikesh.borah4@gmail.com" target="_blank" style="display: inline-block; background-color: #D44638; color: #fff; padding: 8px 16px; margin: 5px 10px; text-decoration: none; border-radius: 4px;">Email</a>
+</p>
+
